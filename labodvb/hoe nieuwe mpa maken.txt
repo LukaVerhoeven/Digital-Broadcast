@@ -1,0 +1,4 @@
+verander de namen in batfile maaknieuwemap.bat (bewerken)
+open cmd ==>
+cd C:\Users\Luka\Desktop\school\Digital-Broadcast\labodvb\oefening2
+addpath.bat
